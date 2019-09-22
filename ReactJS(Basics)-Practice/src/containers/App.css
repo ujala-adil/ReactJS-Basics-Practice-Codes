@@ -1,0 +1,6 @@
+/* GLOBAL CSS - Affects globally even if they are placed in other components. For example, styling for any button would
+affect all of the buttons in the entire application. */
+
+.App {
+  text-align: center;
+}
